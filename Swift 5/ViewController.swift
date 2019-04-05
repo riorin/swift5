@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     
     let descriptionLabel: UITextView = {
         let labelDes = UITextView()
-        labelDes.text = "Loading"
+        labelDes.text = "Lorem Ipsum"
         return labelDes
     }()
     
